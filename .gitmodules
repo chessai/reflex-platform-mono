@@ -1,6 +1,6 @@
-[submodule "reflex-mono"]
-	path = reflex-mono
-	url = ./reflex-mono
 [submodule "reflex-dom-mono"]
 	path = reflex-dom-mono
-	url = ./reflex-dom-mono
+	url = git@github.com:chessai/reflex-dom-mono.git
+[submodule "reflex-mono"]
+	path = reflex-mono
+	url = git@github.com:chessai/reflex-mono.git
